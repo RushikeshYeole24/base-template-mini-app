@@ -20,9 +20,9 @@
     "noindex": true
   },
   "accountAssociation": {
-    "header": "eyJmaWQiOjEzODgyNTUsInR5cGUiOiJhdXRoIiwia2V5IjoiMHg1OWY3NGNkRTE0MjhhOUVhNGI0OTdBYmVENjRmODY3MENkQTQ3QjczIn0",
+    "header": "eyJmaWQiOjEzODgyNTUsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHg3MDExMDAzZDA2ZEI0YzA1NDZDN2UxQzJGMTIzMjlDMjdGNkQzNUZmIn0",
     "payload": "eyJkb21haW4iOiJiYXNlLXRlbXBsYXRlLW1pbmktYXBwLXViYzEudmVyY2VsLmFwcCJ9",
-    "signature": "6zvRNhfvXbXgdMWAvK1SmMyEBIa49Du9sHMyLRFfDGtMalrqimuDpx55WOfQ9fy3A0GJnuX1GXoRAscs8rZJxhw="
+    "signature": "prAgp5R27hxOyiE59p/UMJVWdUu9fkRiFWPfuBUUgu9nOe2nsLvK5UsEIim2MXa1o8e7puneEMq3GyNUSiReoRw="
   },
   "baseBuilder": {
     "ownerAddress": "0x1DF60a9d2cFba8cb4C6bf52E2e049b06c238261e" 
